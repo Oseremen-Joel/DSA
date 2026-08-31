@@ -284,4 +284,6 @@ print(arr.selection())
 """
 Merge Sort
 Quick Sort
-"""
+""" 
+
+# Practising array implementation
